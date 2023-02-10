@@ -1,1 +1,3 @@
-this is a practice for DTSC 520
+This is a practice for DTSC 520. 
+Hello!
+
