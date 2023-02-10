@@ -1,7 +1,4 @@
-<!-- #Read Me -->
+## Read ME
 
-
-<!-- This is a practice for DTSC 520.  -->
-
-<!-- Hello! -->
+Hello!!
 
